@@ -1,0 +1,9 @@
+ui: A label for UI-related issues.
+frontend: A label for frontend-related issues.
+design: A label for design-related discussions.
+ux: A label for user experience-related issues.
+visual: A label for visual aspects of the project.
+component: A label for component-related issues.
+layout: A label for layout-related issues.
+style: A label for styling-related discussions.
+responsive: A label for responsive design issues.
